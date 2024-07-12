@@ -1,5 +1,5 @@
 import os 
 
-def run(**args)
+def run(**args):
     print("[*] In environment modules.")
     return os.environ
